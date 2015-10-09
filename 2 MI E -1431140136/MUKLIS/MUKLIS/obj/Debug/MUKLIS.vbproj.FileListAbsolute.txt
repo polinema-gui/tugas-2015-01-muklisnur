@@ -1,0 +1,10 @@
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\bin\Debug\MUKLIS.exe.config
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\bin\Debug\MUKLIS.exe
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\bin\Debug\MUKLIS.pdb
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\bin\Debug\MUKLIS.xml
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.Form1.resources
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.Resources.resources
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.vbproj.GenerateResource.Cache
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.exe
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.xml
+C:\Users\Aldy\Documents\Visual Studio 2012\Projects\2 MI E -1431140136\MUKLIS\MUKLIS\obj\Debug\MUKLIS.pdb
